@@ -24,7 +24,7 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+Ehsaan Foody Case Study App Using NestJS
 
 ## Installation
 
@@ -33,6 +33,7 @@ $ npm install
 ```
 
 ## Running the app
+### Default Port is 3000
 
 ```bash
 # development
@@ -44,30 +45,34 @@ $ npm run start:dev
 # production mode
 $ npm run start:prod
 ```
+## Swagger (OpenApi)
+http://localhost:3000/api
 
-## Test
 
-```bash
-# unit tests
-$ npm run test
+## Architecture Diagram
+- Generate From - [erase.io](https://eraser.io)
+<p align="center">
+  <a href="http://nestjs.com/" target="blank"><img src="diagrams/architecture.png" /></a>
+</p>
 
-# e2e tests
-$ npm run test:e2e
+## Database ERD Diagram
+- Generate From - [erase.io](https://eraser.io)
+<p align="center">
+  <a href="http://nestjs.com/" target="blank"><img src="diagrams/erd.png" /></a>
+</p>
 
-# test coverage
-$ npm run test:cov
-```
+## UseCase Diagram
+- Generate From - [erase.io](https://eraser.io)
+<p align="center">
+  <a href="http://nestjs.com/" target="blank"><img src="diagrams/usecase.png" /></a>
+</p>
 
-## Support
 
-Nest is an MIT-licensed open source project. It can grow thanks to the sponsors and support by the amazing backers. If you'd like to join them, please [read more here](https://docs.nestjs.com/support).
 
 ## Stay in touch
 
-- Author - [Kamil Myśliwiec](https://kamilmysliwiec.com)
-- Website - [https://nestjs.com](https://nestjs.com/)
-- Twitter - [@nestframework](https://twitter.com/nestframework)
-
-## License
-
-Nest is [MIT licensed](LICENSE).
+- Author - [Afaq Javed](https://afaqjaved.com)
+- Youtube - [Afaq Javed](https://youtube.com/@notezzbyafaq)
+- Github - [https://nestjs.com](https://github.com/AfaqJaved)
+- LinkedIn - [@nestframework](https://linkedin.com/in/afaqjaved)
+- StackOverFlow - [@nestframework](https://stackoverflow.com/users/19072833/afaq-javed)
